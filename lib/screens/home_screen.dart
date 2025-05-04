@@ -272,7 +272,6 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           const SizedBox(height: 16),
           
-          // Lista de favoritos ou mensagem vazia
           Expanded(
             child: _favoriteNames.isEmpty
               ? Center(
