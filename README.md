@@ -41,3 +41,7 @@ O aplicativo utiliza um modelo de linguagem (LLM) para gerar sugestões de nomes
 ---
 
 Sinta-se à vontade para contribuir ou sugerir melhorias!
+
+
+![image](https://github.com/user-attachments/assets/0dc24477-248b-493b-b52d-4c408579ca38)
+
